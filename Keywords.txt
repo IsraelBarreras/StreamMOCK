@@ -1,0 +1,10 @@
+StreamMOCK	KEYWORD1
+writeBuffer	KEYWORD2
+writeBufferIndex	KEYWORD2
+readBuffer	KEYWORD2
+clean	KEYWORD2
+readCalls	KEYWORD2
+writeCalls	KEYWORD2
+flushCalls	KEYWORD2
+availableBytes	KEYWORD2
+availableCalls	KEYWORD2
